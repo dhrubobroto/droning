@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dronify</title>
+</head>
+
+<body>
+  <h1>
+    <center>Dronify</center>
+  </h1>
+  <p>
+    <center><strong>Think Different</strong></center>
+  </p>
+  <hr size="3" , noshade="">
+  <br>
+  <center><img
+      src="https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/The%20Ups%20and%20Downs%20of%20Drones/The_Ups_and_Downs_of_Drones-Hero.jpg "
+      width="320" height="218" alt="image of a drone">
+  </center>
+  <h2>
+    <center>Why Drones are the Future?</center>
+  </h2>
+  <p>
+    <strong>
+      <ul>
+        <li>Drone Delivery - Drones are going to be highly useful to deliver products to customers. </li>
+        <li>They are also gonna be used in Military Service as a very powerful weapon . </li>
+      </ul>
+  </p>
+  <hr size="4" , noshade="20">
+ 
+</strong>
+  <br>
+  <h2>Types of Drones</h2>
+  <p>
+    <strong>
+      <ol type="i">
+        <li>Military Drones</li>
+        <li>Civilian Drones</li>
+        <li>Hobby Drones</li>
+      </ol>
+    </strong>
+    <hr size="4", noshade="20">
+
+  <h3>
+    <center>Drone Type by Weight</center>
+  </h3>
+  <center>
+    <table border="4">
+      <thead>
+        <th>Drones Name</th>
+        <th>Weight</th>
+
+      </thead>
+      <tbody>
+        <tr>
+          <td>Nano Drones</td>
+          <td>200 Grams</td>
+        </tr>
+
+        <tr>
+          <td>Micro Drones</td>
+          <td>200g to 2 kg</td>
+        </tr>
+        <tr>
+          <td>Mini Drones</td>
+          <td>2 Kg to 20 Kg </td>
+        </tr>
+        <tr>
+          <td>Small Drones</td>
+          <td>20 Kg to 150 kg</td>
+        </tr>
+
+
+      </tbody>
+  </center>
+  </table>
+  </p>
+  <hr size="4" , noshade="20">
+
+<br>
+<br>
+
+<h2><center>Learn More about Different Types of Drones</center></h2>
+  <p>
+  <h3><a href="small.html" , target="_blank">World's Smallest Drone</a></h3>
+  <h3><a href="img.html" , target="_blank">Drone Images and Ratings</a></h3>
+  <h3><a href="drones.html" , target="_blank"><strong>More about Military Drones</strong></a></h3>
+  <hr size="4" , noshade="20">
+  <br>
+  <h3><a href="contact.html" , target="_blank"> Contact</a></h3>
+
+  </p>
+
+
+
+</body>
+
+</html>
